@@ -7,4 +7,8 @@ import PokeList from "./components/PokeList.vue";
   <PokeList />
 </template>
 
-<style scoped></style>
+<style scoped>
+h1 {
+  margin-left: 80px;
+}
+</style>
